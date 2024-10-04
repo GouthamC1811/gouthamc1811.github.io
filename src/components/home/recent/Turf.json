@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Joe's Turf",
+    "address": "123 Main St, Anytown, USA",
+    "location": "Coimbatore",
+    "phone": "555-1234",
+    "price": "1000",
+    "email": "joe@example.com",
+    "profilePic": "/images/list/p-1.png",
+    "services": ["Restroom", "Refreshments", "Parking"],
+    "timings": "9 AM - 6 PM",
+    "type": ["Cricket", "Football"],
+    "ratings": 4.5,
+    "description": "Your perfect spot for sport.",
+    "photos": [
+      "https://via.placeholder.com/300x200",
+      "https://via.placeholder.com/300x200",
+      "https://via.placeholder.com/300x200"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mike's Turf",
+    "address": "456 Oak St, Anytown, USA",
+    "location": "Chennai",
+    "phone": "555-5678",
+    "price": "600",
+    "email": "mike@example.com",
+    "profilePic": "/images/list/p-2.png",
+    "services": ["CCTV", "Restroom", "Coaching facility"],
+    "timings": "8 AM - 5 PM",
+    "type": ["Cricket", "Football"],
+    "ratings": 4.0,
+    "description": "Time to grasp your moment.",
+    "photos": [
+      "https://via.placeholder.com/300x200",
+      "https://via.placeholder.com/300x200",
+      "https://via.placeholder.com/300x200"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "John's Turf",
+    "address": "789 Pine St, Anytown, USA",
+    "location": "Bangalore",
+    "phone": "+91 94475 30496",
+    "price": "500",
+    "email": "john@example.com",
+    "profilePic": "/images/list/p-4.png",
+    "services": [
+      "Restroom",
+      "First-Aid-Kit",
+      "Parking"
+    ],
+    "timings": "10 AM - 7 PM",
+    "type": ["Cricket", "Football"],
+    "ratings": 4.5,
+    "description": "Compete and Complete.",
+    "photos": [
+      "https://via.placeholder.com/300x200",
+      "https://via.placeholder.com/300x200",
+      "https://via.placeholder.com/300x200"
+    ]
+  }
+]
