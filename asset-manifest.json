@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gouthamc1811.github.io/static/css/main.b667bbeb.css",
-    "main.js": "/gouthamc1811.github.io/static/js/main.077510e0.js",
-    "static/media/banner.png": "/gouthamc1811.github.io/static/media/banner.ee374110814abd9a6de3.png",
-    "static/media/services.jpg": "/gouthamc1811.github.io/static/media/services.ef4e688378f17c2ef502.jpg",
-    "static/media/about.jpg": "/gouthamc1811.github.io/static/media/about.bfe781ec929a9541b089.jpg",
-    "static/media/pricing.jpg": "/gouthamc1811.github.io/static/media/pricing.a1f0d91e92904c4ab11d.jpg",
-    "index.html": "/gouthamc1811.github.io/index.html",
-    "main.b667bbeb.css.map": "/gouthamc1811.github.io/static/css/main.b667bbeb.css.map",
-    "main.077510e0.js.map": "/gouthamc1811.github.io/static/js/main.077510e0.js.map"
+    "main.css": "/static/css/main.58d96f3b.css",
+    "main.js": "/static/js/main.7e67cd86.js",
+    "static/media/banner.png": "/static/media/banner.ee374110814abd9a6de3.png",
+    "static/media/services.jpg": "/static/media/services.ef4e688378f17c2ef502.jpg",
+    "static/media/about.jpg": "/static/media/about.bfe781ec929a9541b089.jpg",
+    "static/media/pricing.jpg": "/static/media/pricing.a1f0d91e92904c4ab11d.jpg",
+    "index.html": "/index.html",
+    "main.58d96f3b.css.map": "/static/css/main.58d96f3b.css.map",
+    "main.7e67cd86.js.map": "/static/js/main.7e67cd86.js.map"
   },
   "entrypoints": [
-    "static/css/main.b667bbeb.css",
-    "static/js/main.077510e0.js"
+    "static/css/main.58d96f3b.css",
+    "static/js/main.7e67cd86.js"
   ]
 }
